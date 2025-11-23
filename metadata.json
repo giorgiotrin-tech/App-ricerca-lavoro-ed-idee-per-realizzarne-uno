@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Lavoro Italia & Idee",
+  "description": "App per la ricerca di lavoro in Italia e generatore di idee imprenditoriali con supporto AI.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
